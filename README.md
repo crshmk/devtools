@@ -58,4 +58,4 @@ same, for ssh
 
 ---
 
-This is a starter template; see the [commander docs](https://www.npmjs.com/package/commander) for adding and adjusting options.
+This is a starter template; see the [commander docs](https://www.npmjs.com/package/commander#option-parsing) for adding and adjusting options.
